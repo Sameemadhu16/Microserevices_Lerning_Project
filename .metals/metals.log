@@ -8508,3 +8508,830 @@ WARNING: Unmatched cancel notification for request id 7829
 2025.12.01 14:30:58 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
 2025.12.01 14:31:00 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
 2025.12.01 14:31:31 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\controller\OrderController.java. Using fallback presentation compiler.
+2025.12.01 14:31:31 INFO  empty definition using pc, found symbol in pc: com/example/order/service/OrderService# (full report at: "D:\3rd yr backend\Microserevices_Lerning_Project\.metals\.reports\metals-full\2025-12-01\r_empty-definition_14-30-46-980.md")
+2025.12.01 14:31:32 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\config\DevSecurityConfig.java. Using fallback presentation compiler.
+2025.12.01 14:31:32 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\controller\OrderController.java. Using fallback presentation compiler.
+2025.12.01 14:31:31 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:31:33 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:31:33 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java
+2025.12.01 14:31:33 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:31:33 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/order/src/main/java/com/example/order/service/OrderService.java. Output:
+
+2025.12.01 14:33:12 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\config\DevSecurityConfig.java. Using fallback presentation compiler.
+2025.12.01 14:33:29 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\config\DevSecurityConfig.java. Using fallback presentation compiler.
+2025.12.01 14:34:01 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:34:33 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java
+2025.12.01 14:34:33 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:34:34 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:34:39 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:34:41 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:35:26 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:35:28 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:35:33 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:35:38 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:35:39 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:35:39 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:35:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7957
+2025.12.01 14:35:40 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/order/src/main/java/com/example/order/service/OrderService.java. Output:
+
+2025.12.01 14:35:40 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java
+Dec 01, 2025 2:35:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7958
+2025.12.01 14:35:41 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:35:41 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:35:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7962
+2025.12.01 14:35:41 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:35:41 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:35:42 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/order/src/main/java/com/example/order/service/OrderService.java. Output:
+
+2025.12.01 14:35:42 INFO  time: code lens generation in 1.4s
+Dec 01, 2025 2:35:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: String index out of range: 0
+java.lang.StringIndexOutOfBoundsException: String index out of range: 0
+	at java.base/java.lang.StringLatin1.charAt(StringLatin1.java:48)
+	at java.base/java.lang.String.charAt(String.java:1519)
+	at scala.meta.internal.metals.Fuzzy.matchesName(Fuzzy.scala:292)
+	at scala.meta.internal.metals.Fuzzy.$anonfun$matches$2(Fuzzy.scala:75)
+	at scala.meta.internal.metals.Fuzzy.$anonfun$matches$2$adapted(Fuzzy.scala:75)
+	at scala.meta.internal.metals.Fuzzy.loopDelimiters$1(Fuzzy.scala:99)
+	at scala.meta.internal.metals.Fuzzy.genericMatches(Fuzzy.scala:122)
+	at scala.meta.internal.metals.Fuzzy.matches(Fuzzy.scala:76)
+	at scala.meta.internal.pc.JavaCompletionProvider.$anonfun$completeFromScope$3(JavaCompletionProvider.scala:131)
+	at scala.meta.internal.pc.JavaCompletionProvider.$anonfun$completeFromScope$3$adapted(JavaCompletionProvider.scala:131)
+	at scala.collection.immutable.List.filter(List.scala:549)
+	at scala.meta.internal.pc.JavaCompletionProvider.completeFromScope(JavaCompletionProvider.scala:131)
+	at scala.meta.internal.pc.JavaCompletionProvider.completeIdentifier(JavaCompletionProvider.scala:116)
+	at scala.meta.internal.pc.JavaCompletionProvider.completions(JavaCompletionProvider.scala:60)
+	at scala.meta.internal.pc.JavaPresentationCompiler.complete(JavaPresentationCompiler.scala:58)
+	at scala.meta.internal.metals.Compilers.$anonfun$completions$1(Compilers.scala:706)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$4(Compilers.scala:1442)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$3(Compilers.scala:1442)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.Compilers.withPCAndAdjustLsp(Compilers.scala:1434)
+	at scala.meta.internal.metals.Compilers.completions(Compilers.scala:701)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$completion$1(MetalsLspService.scala:1144)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLspService.completion(MetalsLspService.scala:1144)
+	at scala.meta.internal.metals.WorkspaceLspService.completion(WorkspaceLspService.scala:590)
+	at scala.meta.metals.lsp.DelegatingScalaService.completion(DelegatingScalaService.scala:130)
+	at jdk.internal.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+Dec 01, 2025 2:35:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7965
+Dec 01, 2025 2:35:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7967
+2025.12.01 14:35:42 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:35:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7970
+Dec 01, 2025 2:35:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7968
+2025.12.01 14:35:42 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:35:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7969
+2025.12.01 14:35:42 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:35:42 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:35:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7972
+2025.12.01 14:35:42 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java
+Dec 01, 2025 2:35:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7976
+2025.12.01 14:35:42 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/order/src/main/java/com/example/order/service/OrderService.java. Output:
+
+Dec 01, 2025 2:35:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7975
+Dec 01, 2025 2:35:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7977
+2025.12.01 14:35:42 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:35:42 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:35:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7979
+2025.12.01 14:35:43 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/order/src/main/java/com/example/order/service/OrderService.java. Output:
+
+2025.12.01 14:35:42 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:35:43 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java
+2025.12.01 14:35:44 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:35:44 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/order/src/main/java/com/example/order/service/OrderService.java. Output:
+
+2025.12.01 14:35:44 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:35:45 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java
+2025.12.01 14:35:45 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:35:47 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:35:52 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:35:54 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:36:00 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:36:02 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:36:06 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:36:59 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:01 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:01 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:01 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:37:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8098
+2025.12.01 14:37:01 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:01 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:37:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8100
+2025.12.01 14:37:01 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:01 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:03 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:03 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:03 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:04 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:04 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:37:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8115
+2025.12.01 14:37:04 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:04 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:37:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: String index out of range: 0
+java.lang.StringIndexOutOfBoundsException: String index out of range: 0
+	at java.base/java.lang.StringLatin1.charAt(StringLatin1.java:48)
+	at java.base/java.lang.String.charAt(String.java:1519)
+	at scala.meta.internal.metals.Fuzzy.matchesName(Fuzzy.scala:292)
+	at scala.meta.internal.metals.Fuzzy.$anonfun$matches$2(Fuzzy.scala:75)
+	at scala.meta.internal.metals.Fuzzy.$anonfun$matches$2$adapted(Fuzzy.scala:75)
+	at scala.meta.internal.metals.Fuzzy.loopDelimiters$1(Fuzzy.scala:99)
+	at scala.meta.internal.metals.Fuzzy.genericMatches(Fuzzy.scala:122)
+	at scala.meta.internal.metals.Fuzzy.matches(Fuzzy.scala:76)
+	at scala.meta.internal.pc.JavaCompletionProvider.$anonfun$completeFromScope$3(JavaCompletionProvider.scala:131)
+	at scala.meta.internal.pc.JavaCompletionProvider.$anonfun$completeFromScope$3$adapted(JavaCompletionProvider.scala:131)
+	at scala.collection.immutable.List.filter(List.scala:549)
+	at scala.meta.internal.pc.JavaCompletionProvider.completeFromScope(JavaCompletionProvider.scala:131)
+	at scala.meta.internal.pc.JavaCompletionProvider.completeIdentifier(JavaCompletionProvider.scala:116)
+	at scala.meta.internal.pc.JavaCompletionProvider.completions(JavaCompletionProvider.scala:60)
+	at scala.meta.internal.pc.JavaPresentationCompiler.complete(JavaPresentationCompiler.scala:58)
+	at scala.meta.internal.metals.Compilers.$anonfun$completions$1(Compilers.scala:706)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$4(Compilers.scala:1442)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$3(Compilers.scala:1442)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.Compilers.withPCAndAdjustLsp(Compilers.scala:1434)
+	at scala.meta.internal.metals.Compilers.completions(Compilers.scala:701)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$completion$1(MetalsLspService.scala:1144)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLspService.completion(MetalsLspService.scala:1144)
+	at scala.meta.internal.metals.WorkspaceLspService.completion(WorkspaceLspService.scala:590)
+	at scala.meta.metals.lsp.DelegatingScalaService.completion(DelegatingScalaService.scala:130)
+	at jdk.internal.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+2025.12.01 14:37:05 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:37:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8117
+2025.12.01 14:37:05 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:06 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java
+2025.12.01 14:37:06 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:06 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/order/src/main/java/com/example/order/service/OrderService.java. Output:
+
+2025.12.01 14:37:05 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:05 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:09 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:09 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:09 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:11 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:11 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:11 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:12 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:12 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:12 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:37:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: String index out of range: 0
+java.lang.StringIndexOutOfBoundsException: String index out of range: 0
+	at java.base/java.lang.StringLatin1.charAt(StringLatin1.java:48)
+	at java.base/java.lang.String.charAt(String.java:1519)
+	at scala.meta.internal.metals.Fuzzy.matchesName(Fuzzy.scala:292)
+	at scala.meta.internal.metals.Fuzzy.$anonfun$matches$2(Fuzzy.scala:75)
+	at scala.meta.internal.metals.Fuzzy.$anonfun$matches$2$adapted(Fuzzy.scala:75)
+	at scala.meta.internal.metals.Fuzzy.loopDelimiters$1(Fuzzy.scala:99)
+	at scala.meta.internal.metals.Fuzzy.genericMatches(Fuzzy.scala:122)
+	at scala.meta.internal.metals.Fuzzy.matches(Fuzzy.scala:76)
+	at scala.meta.internal.pc.JavaCompletionProvider.$anonfun$completeFromScope$3(JavaCompletionProvider.scala:131)
+	at scala.meta.internal.pc.JavaCompletionProvider.$anonfun$completeFromScope$3$adapted(JavaCompletionProvider.scala:131)
+	at scala.collection.immutable.List.filter(List.scala:549)
+	at scala.meta.internal.pc.JavaCompletionProvider.completeFromScope(JavaCompletionProvider.scala:131)
+	at scala.meta.internal.pc.JavaCompletionProvider.completeIdentifier(JavaCompletionProvider.scala:116)
+	at scala.meta.internal.pc.JavaCompletionProvider.completions(JavaCompletionProvider.scala:60)
+	at scala.meta.internal.pc.JavaPresentationCompiler.complete(JavaPresentationCompiler.scala:58)
+	at scala.meta.internal.metals.Compilers.$anonfun$completions$1(Compilers.scala:706)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$4(Compilers.scala:1442)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$3(Compilers.scala:1442)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.Compilers.withPCAndAdjustLsp(Compilers.scala:1434)
+	at scala.meta.internal.metals.Compilers.completions(Compilers.scala:701)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$completion$1(MetalsLspService.scala:1144)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLspService.completion(MetalsLspService.scala:1144)
+	at scala.meta.internal.metals.WorkspaceLspService.completion(WorkspaceLspService.scala:590)
+	at scala.meta.metals.lsp.DelegatingScalaService.completion(DelegatingScalaService.scala:130)
+	at jdk.internal.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+2025.12.01 14:37:13 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:13 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:13 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:14 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:14 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:14 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:15 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java
+2025.12.01 14:37:15 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/order/src/main/java/com/example/order/service/OrderService.java. Output:
+
+2025.12.01 14:37:16 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:16 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:37:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8174
+2025.12.01 14:37:16 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:16 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:17 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java
+2025.12.01 14:37:17 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/order/src/main/java/com/example/order/service/OrderService.java. Output:
+
+2025.12.01 14:37:16 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:19 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:20 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:21 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:21 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:22 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:23 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java
+2025.12.01 14:37:23 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:23 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/order/src/main/java/com/example/order/service/OrderService.java. Output:
+
+2025.12.01 14:37:23 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:25 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:25 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:26 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:26 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:26 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:26 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:27 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:27 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:27 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:27 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:27 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:28 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:29 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:29 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java
+2025.12.01 14:37:29 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/order/src/main/java/com/example/order/service/OrderService.java. Output:
+
+2025.12.01 14:37:30 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:30 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:30 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:37:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: String index out of range: 0
+java.lang.StringIndexOutOfBoundsException: String index out of range: 0
+	at java.base/java.lang.StringLatin1.charAt(StringLatin1.java:48)
+	at java.base/java.lang.String.charAt(String.java:1519)
+	at scala.meta.internal.metals.Fuzzy.matchesName(Fuzzy.scala:292)
+	at scala.meta.internal.metals.Fuzzy.$anonfun$matches$2(Fuzzy.scala:75)
+	at scala.meta.internal.metals.Fuzzy.$anonfun$matches$2$adapted(Fuzzy.scala:75)
+	at scala.meta.internal.metals.Fuzzy.loopDelimiters$1(Fuzzy.scala:99)
+	at scala.meta.internal.metals.Fuzzy.genericMatches(Fuzzy.scala:122)
+	at scala.meta.internal.metals.Fuzzy.matches(Fuzzy.scala:76)
+	at scala.meta.internal.pc.JavaCompletionProvider.$anonfun$completeFromScope$3(JavaCompletionProvider.scala:131)
+	at scala.meta.internal.pc.JavaCompletionProvider.$anonfun$completeFromScope$3$adapted(JavaCompletionProvider.scala:131)
+	at scala.collection.immutable.List.filter(List.scala:549)
+	at scala.meta.internal.pc.JavaCompletionProvider.completeFromScope(JavaCompletionProvider.scala:131)
+	at scala.meta.internal.pc.JavaCompletionProvider.completeIdentifier(JavaCompletionProvider.scala:116)
+	at scala.meta.internal.pc.JavaCompletionProvider.completions(JavaCompletionProvider.scala:60)
+	at scala.meta.internal.pc.JavaPresentationCompiler.complete(JavaPresentationCompiler.scala:58)
+	at scala.meta.internal.metals.Compilers.$anonfun$completions$1(Compilers.scala:706)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$4(Compilers.scala:1442)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$3(Compilers.scala:1442)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.Compilers.withPCAndAdjustLsp(Compilers.scala:1434)
+	at scala.meta.internal.metals.Compilers.completions(Compilers.scala:701)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$completion$1(MetalsLspService.scala:1144)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLspService.completion(MetalsLspService.scala:1144)
+	at scala.meta.internal.metals.WorkspaceLspService.completion(WorkspaceLspService.scala:590)
+	at scala.meta.metals.lsp.DelegatingScalaService.completion(DelegatingScalaService.scala:130)
+	at jdk.internal.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+2025.12.01 14:37:30 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:31 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java
+2025.12.01 14:37:31 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:31 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/order/src/main/java/com/example/order/service/OrderService.java. Output:
+
+2025.12.01 14:37:31 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:31 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:31 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:33 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java
+2025.12.01 14:37:33 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/order/src/main/java/com/example/order/service/OrderService.java. Output:
+
+2025.12.01 14:37:33 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:36 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:40 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:40 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:42 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:42 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:42 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:42 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:43 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:43 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:37:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8248
+2025.12.01 14:37:43 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:43 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:43 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:43 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:56 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:56 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:37:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8254
+2025.12.01 14:37:58 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:58 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:37:58 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:38:13 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:38:13 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:38:13 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:38:33 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:38:33 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:38:34 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:38:36 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:38:43 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:38:47 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:38:48 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java
+2025.12.01 14:38:48 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:38:48 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/order/src/main/java/com/example/order/service/OrderService.java. Output:
+
+2025.12.01 14:38:49 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:38:49 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:38:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: String index out of range: 0
+java.lang.StringIndexOutOfBoundsException: String index out of range: 0
+	at java.base/java.lang.StringLatin1.charAt(StringLatin1.java:48)
+	at java.base/java.lang.String.charAt(String.java:1519)
+	at scala.meta.internal.metals.Fuzzy.matchesName(Fuzzy.scala:292)
+	at scala.meta.internal.metals.Fuzzy.$anonfun$matches$2(Fuzzy.scala:75)
+	at scala.meta.internal.metals.Fuzzy.$anonfun$matches$2$adapted(Fuzzy.scala:75)
+	at scala.meta.internal.metals.Fuzzy.loopDelimiters$1(Fuzzy.scala:99)
+	at scala.meta.internal.metals.Fuzzy.genericMatches(Fuzzy.scala:122)
+	at scala.meta.internal.metals.Fuzzy.matches(Fuzzy.scala:76)
+	at scala.meta.internal.pc.JavaCompletionProvider.$anonfun$completeFromScope$3(JavaCompletionProvider.scala:131)
+	at scala.meta.internal.pc.JavaCompletionProvider.$anonfun$completeFromScope$3$adapted(JavaCompletionProvider.scala:131)
+	at scala.collection.immutable.List.filter(List.scala:549)
+	at scala.meta.internal.pc.JavaCompletionProvider.completeFromScope(JavaCompletionProvider.scala:131)
+	at scala.meta.internal.pc.JavaCompletionProvider.completeIdentifier(JavaCompletionProvider.scala:116)
+	at scala.meta.internal.pc.JavaCompletionProvider.completions(JavaCompletionProvider.scala:60)
+	at scala.meta.internal.pc.JavaPresentationCompiler.complete(JavaPresentationCompiler.scala:58)
+	at scala.meta.internal.metals.Compilers.$anonfun$completions$1(Compilers.scala:706)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$4(Compilers.scala:1442)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$3(Compilers.scala:1442)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.Compilers.withPCAndAdjustLsp(Compilers.scala:1434)
+	at scala.meta.internal.metals.Compilers.completions(Compilers.scala:701)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$completion$1(MetalsLspService.scala:1144)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLspService.completion(MetalsLspService.scala:1144)
+	at scala.meta.internal.metals.WorkspaceLspService.completion(WorkspaceLspService.scala:590)
+	at scala.meta.metals.lsp.DelegatingScalaService.completion(DelegatingScalaService.scala:130)
+	at jdk.internal.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+2025.12.01 14:38:49 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:38:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8306
+2025.12.01 14:38:49 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:38:50 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:38:51 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java
+2025.12.01 14:38:51 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/order/src/main/java/com/example/order/service/OrderService.java. Output:
+
+2025.12.01 14:38:51 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:38:51 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:38:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8311
+2025.12.01 14:38:51 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:38:51 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:38:52 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java
+2025.12.01 14:38:51 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:38:51 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/order/src/main/java/com/example/order/service/OrderService.java. Output:
+
+2025.12.01 14:38:54 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:38:54 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:38:54 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:38:55 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java
+2025.12.01 14:38:55 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:38:55 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/order/src/main/java/com/example/order/service/OrderService.java. Output:
+
+2025.12.01 14:38:55 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:38:55 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:38:57 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:38:57 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:38:57 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:38:57 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java
+2025.12.01 14:38:58 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:38:58 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/order/src/main/java/com/example/order/service/OrderService.java. Output:
+
+2025.12.01 14:38:58 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:38:58 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:39:05 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:39:07 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:39:10 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:39:42 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:41:06 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:41:08 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:41:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8395
+2025.12.01 14:41:43 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:41:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8473
+2025.12.01 14:41:52 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:43:16 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:43:23 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:43:25 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:43:29 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:43:43 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:43:46 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:43:46 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:43:47 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:43:47 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/order/src/main/java/com/example/order/service/OrderService.java. Output:
+
+2025.12.01 14:43:47 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:43:48 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:43:48 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:43:48 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:43:48 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java
+Dec 01, 2025 2:43:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8587
+Dec 01, 2025 2:43:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8590
+Dec 01, 2025 2:43:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8589
+Dec 01, 2025 2:43:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8588
+2025.12.01 14:43:48 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:43:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8591
+2025.12.01 14:43:48 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:43:48 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:43:48 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:43:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8596
+2025.12.01 14:43:48 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:43:49 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:43:49 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:43:49 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:43:49 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:43:50 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:43:50 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:43:50 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:43:50 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:43:50 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:43:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8610
+2025.12.01 14:43:50 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:43:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8611
+2025.12.01 14:43:52 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:43:52 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:43:52 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:43:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8617
+2025.12.01 14:43:54 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:43:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8616
+2025.12.01 14:43:54 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:43:54 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:43:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8619
+2025.12.01 14:43:54 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:43:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8621
+Dec 01, 2025 2:43:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8622
+2025.12.01 14:43:54 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:43:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8624
+2025.12.01 14:43:54 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:43:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8625
+Dec 01, 2025 2:43:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8626
+Dec 01, 2025 2:43:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8627
+2025.12.01 14:43:54 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:43:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8630
+2025.12.01 14:43:54 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:43:54 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:43:54 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:43:54 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:43:55 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:43:55 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:43:56 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java
+2025.12.01 14:43:56 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:43:56 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/order/src/main/java/com/example/order/service/OrderService.java. Output:
+
+2025.12.01 14:43:56 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:43:56 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:44:00 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:44:01 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:44:04 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:44:08 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:44:43 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:45:09 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:45:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8719
+2025.12.01 14:45:13 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:45:22 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:45:22 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:45:22 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:45:25 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:45:37 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:45:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8740
+2025.12.01 14:45:39 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:45:41 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:45:42 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:45:53 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:47:20 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:47:24 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:47:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8819
+2025.12.01 14:47:30 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:47:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8834
+Dec 01, 2025 2:47:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8837
+Dec 01, 2025 2:47:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8918
+2025.12.01 14:50:28 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:50:31 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:50:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9063
+2025.12.01 14:50:56 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:50:58 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+Dec 01, 2025 2:50:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9098
+Dec 01, 2025 2:50:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9108
+2025.12.01 14:55:22 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\repository\ProductRepo.java. Using fallback presentation compiler.
+2025.12.01 14:55:22 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\repository\ProductRepo.java
+2025.12.01 14:55:22 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\repository\ProductRepo.java. Using fallback presentation compiler.
+2025.12.01 14:55:22 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\repository\ProductRepo.java. Using fallback presentation compiler.
+2025.12.01 14:55:22 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/product/src/main/java/com/example/product/repository/ProductRepo.java. Output:
+
+2025.12.01 14:55:28 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\repository\ProductRepo.java. Using fallback presentation compiler.
+2025.12.01 14:55:35 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductService.java. Using fallback presentation compiler.
+2025.12.01 14:55:35 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductService.java
+2025.12.01 14:55:35 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductService.java. Using fallback presentation compiler.
+2025.12.01 14:55:35 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductService.java. Using fallback presentation compiler.
+2025.12.01 14:55:35 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/product/src/main/java/com/example/product/service/ProductService.java. Output:
+
+2025.12.01 14:55:36 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductService.java. Using fallback presentation compiler.
+2025.12.01 14:55:39 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductService.java. Using fallback presentation compiler.
+2025.12.01 14:56:33 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\service\InventoryService.java
+2025.12.01 14:56:33 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductService.java. Using fallback presentation compiler.
+2025.12.01 14:56:34 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/inventory/src/main/java/com/example/inventory/service/InventoryService.java. Output:
+
+2025.12.01 14:56:59 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\service\InventoryService.java. Using fallback presentation compiler.
+2025.12.01 14:56:59 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\service\InventoryService.java
+2025.12.01 14:56:59 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductService.java. Using fallback presentation compiler.
+2025.12.01 14:56:59 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/inventory/src/main/java/com/example/inventory/service/InventoryService.java. Output:
+
+2025.12.01 14:57:03 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductService.java. Using fallback presentation compiler.
+2025.12.01 14:57:08 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\service\InventoryServiceImpl.java
+2025.12.01 14:57:08 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/inventory/src/main/java/com/example/inventory/service/InventoryServiceImpl.java. Output:
+
+2025.12.01 14:57:08 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\service\InventoryServiceImpl.java. Using fallback presentation compiler.
+2025.12.01 14:57:08 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductService.java. Using fallback presentation compiler.
+2025.12.01 14:57:09 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\service\InventoryServiceImpl.java
+2025.12.01 14:57:09 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductService.java. Using fallback presentation compiler.
+2025.12.01 14:57:08 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/inventory/src/main/java/com/example/inventory/service/InventoryServiceImpl.java. Output:
+
+2025.12.01 14:57:14 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\service\InventoryService.java. Using fallback presentation compiler.
+2025.12.01 14:57:14 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\service\InventoryService.java
+2025.12.01 14:57:14 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\service\InventoryService.java. Using fallback presentation compiler.
+2025.12.01 14:57:22 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\service\InventoryServiceImpl.java. Using fallback presentation compiler.
+2025.12.01 14:57:22 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\service\InventoryServiceImpl.java
+2025.12.01 14:57:22 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\service\InventoryServiceImpl.java. Using fallback presentation compiler.
+2025.12.01 14:57:22 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\service\InventoryServiceImpl.java. Using fallback presentation compiler.
+2025.12.01 14:57:26 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:57:26 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java
+2025.12.01 14:57:27 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/order/src/main/java/com/example/order/service/OrderService.java. Output:
+
+2025.12.01 14:57:26 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\service\InventoryServiceImpl.java. Using fallback presentation compiler.
+2025.12.01 14:57:36 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:57:36 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java
+2025.12.01 14:57:36 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:57:42 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderServiceImpl.java
+2025.12.01 14:57:42 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/order/src/main/java/com/example/order/service/OrderServiceImpl.java. Output:
+
+2025.12.01 14:57:42 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderServiceImpl.java. Using fallback presentation compiler.
+2025.12.01 14:57:42 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:57:42 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderServiceImpl.java
+2025.12.01 14:57:42 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:57:42 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/order/src/main/java/com/example/order/service/OrderServiceImpl.java. Output:
+
+2025.12.01 14:57:45 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderServiceImpl.java. Using fallback presentation compiler.
+2025.12.01 14:57:47 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderServiceImpl.java. Using fallback presentation compiler.
+2025.12.01 14:57:47 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderServiceImpl.java. Using fallback presentation compiler.
+2025.12.01 14:57:52 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductService.java. Using fallback presentation compiler.
+2025.12.01 14:57:52 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductService.java
+2025.12.01 14:57:52 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/product/src/main/java/com/example/product/service/ProductService.java. Output:
+
+2025.12.01 14:57:52 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderServiceImpl.java. Using fallback presentation compiler.
+2025.12.01 14:57:54 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderServiceImpl.java. Using fallback presentation compiler.
+2025.12.01 14:57:57 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderServiceImpl.java. Using fallback presentation compiler.
+2025.12.01 14:58:03 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductServiceImpl.java
+2025.12.01 14:58:03 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/product/src/main/java/com/example/product/service/ProductServiceImpl.java. Output:
+
+2025.12.01 14:58:03 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductServiceImpl.java. Using fallback presentation compiler.
+2025.12.01 14:58:03 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderServiceImpl.java. Using fallback presentation compiler.
+2025.12.01 14:58:03 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductServiceImpl.java
+2025.12.01 14:58:03 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderServiceImpl.java. Using fallback presentation compiler.
+2025.12.01 14:58:03 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/product/src/main/java/com/example/product/service/ProductServiceImpl.java. Output:
+
+2025.12.01 14:58:04 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductService.java. Using fallback presentation compiler.
+2025.12.01 14:58:03 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductService.java
+2025.12.01 14:58:04 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductService.java. Using fallback presentation compiler.
+2025.12.01 14:58:06 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductServiceImpl.java. Using fallback presentation compiler.
+2025.12.01 14:58:08 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductServiceImpl.java. Using fallback presentation compiler.
+2025.12.01 14:58:34 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\controller\OrderController.java. Using fallback presentation compiler.
+2025.12.01 14:58:34 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\controller\OrderController.java
+2025.12.01 14:58:34 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\controller\OrderController.java. Using fallback presentation compiler.
+2025.12.01 14:58:34 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\controller\OrderController.java. Using fallback presentation compiler.
+2025.12.01 14:58:34 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\controller\OrderController.java. Using fallback presentation compiler.
+2025.12.01 14:59:01 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\controller\OrderController.java. Using fallback presentation compiler.
+2025.12.01 14:59:01 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\controller\OrderController.java. Using fallback presentation compiler.
+2025.12.01 14:59:06 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 14:59:06 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java
+2025.12.01 14:59:06 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 15:00:07 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\controller\InventoryController.java. Using fallback presentation compiler.
+2025.12.01 15:00:07 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\controller\InventoryController.java
+2025.12.01 15:00:07 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\controller\InventoryController.java. Using fallback presentation compiler.
+2025.12.01 15:00:13 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\controller\InventoryController.java. Using fallback presentation compiler.
+2025.12.01 15:00:17 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\controller\OrderController.java. Using fallback presentation compiler.
+2025.12.01 15:00:17 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\controller\OrderController.java
+2025.12.01 15:00:18 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\controller\OrderController.java. Using fallback presentation compiler.
+2025.12.01 15:00:17 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\controller\OrderController.java. Using fallback presentation compiler.
+2025.12.01 15:00:19 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\controller\OrderController.java. Using fallback presentation compiler.
+2025.12.01 15:00:19 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\controller\OrderController.java. Using fallback presentation compiler.
+2025.12.01 15:00:19 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\controller\OrderController.java. Using fallback presentation compiler.
+2025.12.01 15:00:20 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\controller\OrderController.java. Using fallback presentation compiler.
+2025.12.01 15:00:25 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\controller\OrderController.java. Using fallback presentation compiler.
+2025.12.01 15:00:27 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\controller\OrderController.java. Using fallback presentation compiler.
+2025.12.01 15:00:27 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\controller\OrderController.java. Using fallback presentation compiler.
+2025.12.01 15:00:27 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\controller\OrderController.java. Using fallback presentation compiler.
+2025.12.01 15:00:29 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\controller\OrderController.java. Using fallback presentation compiler.
+2025.12.01 15:00:36 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 15:00:36 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java
+2025.12.01 15:00:36 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 15:00:50 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 15:00:51 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java
+2025.12.01 15:00:51 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 15:00:51 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/order/src/main/java/com/example/order/service/OrderService.java. Output:
+
+2025.12.01 15:00:51 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 15:01:02 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\controller\OrderController.java. Using fallback presentation compiler.
+2025.12.01 15:01:02 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\controller\OrderController.java
+2025.12.01 15:01:03 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\controller\OrderController.java. Using fallback presentation compiler.
+2025.12.01 15:01:02 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\controller\OrderController.java. Using fallback presentation compiler.
+2025.12.01 15:01:04 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\service\InventoryService.java. Using fallback presentation compiler.
+2025.12.01 15:01:04 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\service\InventoryService.java
+2025.12.01 15:01:04 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\controller\OrderController.java. Using fallback presentation compiler.
+2025.12.01 15:01:42 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductService.java. Using fallback presentation compiler.
+2025.12.01 15:01:42 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductService.java
+2025.12.01 15:01:42 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\controller\OrderController.java. Using fallback presentation compiler.
+2025.12.01 15:01:42 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\controller\OrderController.java. Using fallback presentation compiler.
+2025.12.01 15:01:42 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductService.java. Using fallback presentation compiler.
+2025.12.01 15:01:42 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductService.java
+2025.12.01 15:01:42 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductService.java. Using fallback presentation compiler.
+2025.12.01 15:03:25 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\controller\InventoryController.java. Using fallback presentation compiler.
+2025.12.01 15:03:26 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\controller\OrderController.java. Using fallback presentation compiler.
+2025.12.01 15:03:26 INFO  empty definition using pc, found symbol in pc: com/example/order/service/OrderService# (full report at: "D:\3rd yr backend\Microserevices_Lerning_Project\.metals\.reports\metals-full\2025-12-01\r_empty-definition_14-30-46-980.md")
+2025.12.01 15:03:26 INFO  Created report: Optional[file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/inventory/src/main/java/com/example/inventory/controller/InventoryController.java]
+2025.12.01 15:03:26 INFO  empty definition using pc, found symbol in pc: com/example/inventory/service/InventoryService# (full report at: "D:\3rd yr backend\Microserevices_Lerning_Project\.metals\.reports\metals-full\2025-12-01\r_empty-definition_15-03-26-632.md")
+2025.12.01 15:03:27 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\controller\InventoryController.java. Using fallback presentation compiler.
+2025.12.01 15:03:27 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\controller\OrderController.java. Using fallback presentation compiler.
+2025.12.01 15:03:26 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductService.java. Using fallback presentation compiler.
+2025.12.01 15:03:26 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductService.java. Using fallback presentation compiler.
+2025.12.01 15:03:27 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\service\InventoryService.java. Using fallback presentation compiler.
+2025.12.01 15:03:28 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 15:03:28 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\config\DevSecurityConfig.java
+2025.12.01 15:03:29 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/inventory/src/main/java/com/example/inventory/config/DevSecurityConfig.java. Output:
+
+2025.12.01 15:03:29 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\config\DevSecurityConfig.java. Using fallback presentation compiler.
+2025.12.01 15:03:29 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductService.java. Using fallback presentation compiler.
+2025.12.01 15:03:29 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\config\DevSecurityConfig.java
+2025.12.01 15:03:30 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/order/src/main/java/com/example/order/config/DevSecurityConfig.java. Output:
+
+2025.12.01 15:03:30 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\config\DevSecurityConfig.java. Using fallback presentation compiler.
+2025.12.01 15:03:30 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\controller\OrderController.java. Using fallback presentation compiler.
+2025.12.01 15:03:30 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\config\DevSecurityConfig.java. Using fallback presentation compiler.
+2025.12.01 15:03:31 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\config\DevSecurityConfig.java
+2025.12.01 15:03:31 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/inventory/src/main/java/com/example/inventory/config/DevSecurityConfig.java. Output:
+
+2025.12.01 15:03:31 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductService.java. Using fallback presentation compiler.
+2025.12.01 15:03:32 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\config\DevSecurityConfig.java. Using fallback presentation compiler.
+2025.12.01 15:03:32 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 15:03:32 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\config\DevSecurityConfig.java. Using fallback presentation compiler.
+2025.12.01 15:03:32 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\config\DevSecurityConfig.java
+2025.12.01 15:03:32 WARN  Running javac-semanticdb failed for file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/order/src/main/java/com/example/order/config/DevSecurityConfig.java. Output:
+
+2025.12.01 15:03:33 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductService.java. Using fallback presentation compiler.
+2025.12.01 15:03:33 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\config\DevSecurityConfig.java. Using fallback presentation compiler.
+2025.12.01 15:03:35 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\config\DevSecurityConfig.java. Using fallback presentation compiler.
+2025.12.01 15:04:08 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductServiceImpl.java. Using fallback presentation compiler.
+2025.12.01 15:04:08 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductServiceImpl.java
+2025.12.01 15:04:08 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductServiceImpl.java. Using fallback presentation compiler.
+2025.12.01 15:04:08 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductServiceImpl.java. Using fallback presentation compiler.
+2025.12.01 15:04:08 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductService.java
+2025.12.01 15:04:08 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductServiceImpl.java. Using fallback presentation compiler.
+2025.12.01 15:04:09 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 15:04:08 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java
+2025.12.01 15:04:09 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 15:04:09 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 15:04:09 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java. Using fallback presentation compiler.
+2025.12.01 15:04:09 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\product\src\main\java\com\example\product\service\ProductServiceImpl.java
+2025.12.01 15:04:09 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\service\InventoryService.java. Using fallback presentation compiler.
+2025.12.01 15:04:10 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\service\InventoryService.java
+2025.12.01 15:04:10 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\service\InventoryService.java. Using fallback presentation compiler.
+2025.12.01 15:04:09 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\service\InventoryService.java. Using fallback presentation compiler.
+2025.12.01 15:04:10 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\service\InventoryService.java. Using fallback presentation compiler.
+2025.12.01 15:04:10 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderService.java
+2025.12.01 15:04:10 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\service\InventoryServiceImpl.java. Using fallback presentation compiler.
+2025.12.01 15:04:10 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\service\InventoryServiceImpl.java
+2025.12.01 15:04:10 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\service\InventoryServiceImpl.java. Using fallback presentation compiler.
+2025.12.01 15:04:11 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\service\InventoryServiceImpl.java. Using fallback presentation compiler.
+2025.12.01 15:04:10 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\service\InventoryService.java
+2025.12.01 15:04:12 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderServiceImpl.java. Using fallback presentation compiler.
+2025.12.01 15:04:12 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderServiceImpl.java
+2025.12.01 15:04:12 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderServiceImpl.java. Using fallback presentation compiler.
+2025.12.01 15:04:12 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderServiceImpl.java. Using fallback presentation compiler.
+2025.12.01 15:04:12 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\inventory\src\main\java\com\example\inventory\service\InventoryServiceImpl.java
+2025.12.01 15:04:13 WARN  no build target for: D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderServiceImpl.java
+2025.12.01 15:04:13 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderServiceImpl.java. Using fallback presentation compiler.
+2025.12.01 15:04:14 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderServiceImpl.java. Using fallback presentation compiler.
+2025.12.01 15:04:23 INFO  no build target found for D:\3rd yr backend\Microserevices_Lerning_Project\microservices_pos\order\src\main\java\com\example\order\service\OrderServiceImpl.java. Using fallback presentation compiler.

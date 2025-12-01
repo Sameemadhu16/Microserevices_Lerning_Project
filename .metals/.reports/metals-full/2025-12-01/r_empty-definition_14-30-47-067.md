@@ -1,6 +1,17 @@
+error id: file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/order/src/main/java/com/example/order/service/OrderService.java:com/example/order/common/ErrorOrderResponse#
+file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/order/src/main/java/com/example/order/service/OrderService.java
+empty definition using pc, found symbol in pc: com/example/order/common/ErrorOrderResponse#
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 70
+uri: file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/order/src/main/java/com/example/order/service/OrderService.java
+text:
+```scala
 package com.example.order.service;
 
-import com.example.order.common.ErrorOrderResponse;
+import com.example.order.common.@@ErrorOrderResponse;
 import com.example.order.common.OrderResponse;
 import com.example.order.common.SuccessOrderResponse;
 import com.example.order.dto.OrderDTO;
@@ -79,8 +90,9 @@ public class OrderService {
 
         } catch (Exception e) {
             e.printStackTrace();
-            return new ErrorOrderResponse("Failed to validate inventory: " + e.getMessage());
+            
         }
+        return null;
     }
     public OrderDTO updateOrder(OrderDTO OrderDTO) {
         orderRepo.save(modelMapper.map(OrderDTO, Orders.class));
@@ -97,3 +109,10 @@ public class OrderService {
         return modelMapper.map(order, OrderDTO.class);
     }
 }
+
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: com/example/order/common/ErrorOrderResponse#

@@ -1,0 +1,107 @@
+{
+    "version": "1.4.0",
+    "project": {
+        "name": "microservices_pos",
+        "directory": "D:\\3rd yr backend\\Microserevices_Lerning_Project\\microservices_pos",
+        "workspaceDir": "D:\\3rd yr backend\\Microserevices_Lerning_Project\\microservices_pos",
+        "sources": [
+            
+        ],
+        "dependencies": [
+            
+        ],
+        "classpath": [
+            "D:\\3rd yr backend\\Microserevices_Lerning_Project\\microservices_pos\\target\\classes"
+        ],
+        "out": "D:\\3rd yr backend\\Microserevices_Lerning_Project\\microservices_pos\\target",
+        "classesDir": "D:\\3rd yr backend\\Microserevices_Lerning_Project\\microservices_pos\\target\\classes",
+        "resources": [
+            "D:\\3rd yr backend\\Microserevices_Lerning_Project\\microservices_pos\\src\\main\\resources",
+            "D:\\3rd yr backend\\Microserevices_Lerning_Project\\microservices_pos\\src\\main\\resources"
+        ],
+        "java": {
+            "options": [
+                "-g",
+                "--release",
+                "17",
+                "-encoding",
+                "UTF-8"
+            ]
+        },
+        "test": {
+            "frameworks": [
+                {
+                    "names": [
+                        "com.novocode.junit.JUnitFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.scalatest.tools.Framework",
+                        "org.scalatest.tools.ScalaTestFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.scalacheck.ScalaCheckFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs.runner.SpecsFramework",
+                        "org.specs2.runner.Specs2Framework",
+                        "org.specs2.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "utest.runner.Framework"
+                    ]
+                },
+                {
+                    "names": [
+                        "munit.Framework"
+                    ]
+                }
+            ],
+            "options": {
+                "excludes": [
+                    
+                ],
+                "arguments": [
+                    {
+                        "args": [
+                            "-v",
+                            "-a"
+                        ],
+                        "framework": {
+                            "names": [
+                                "com.novocode.junit.JUnitFramework"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "platform": {
+            "name": "jvm",
+            "config": {
+                "home": "C:\\Program Files\\Java\\jdk-17",
+                "options": [
+                    
+                ]
+            },
+            "mainClass": [
+                
+            ]
+        },
+        "resolution": {
+            "modules": [
+                
+            ]
+        },
+        "tags": [
+            "library"
+        ]
+    }
+}

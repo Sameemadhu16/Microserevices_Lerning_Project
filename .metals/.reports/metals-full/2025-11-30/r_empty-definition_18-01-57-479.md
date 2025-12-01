@@ -1,3 +1,14 @@
+error id: file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/order/src/main/java/com/example/order/service/OrderService.java:_empty_/ErrorOrderResponse#
+file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/order/src/main/java/com/example/order/service/OrderService.java
+empty definition using pc, found symbol in pc: _empty_/ErrorOrderResponse#
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 2133
+uri: file:///D:/3rd%20yr%20backend/Microserevices_Lerning_Project/microservices_pos/order/src/main/java/com/example/order/service/OrderService.java
+text:
+```scala
 package com.example.order.service;
 
 import com.example.order.common.ErrorOrderResponse;
@@ -19,8 +30,7 @@ import java.util.List;
 import org.springframework.web.reactive.function.client.WebClient;
 import org.springframework.web.util.UriBuilder;
 
-import org.springframework.core.ParameterizedTypeReference;
-import java.util.Map;
+import com.example.inventory.dto.InventoryDTO;
 
 @Service
 @Transactional
@@ -49,37 +59,23 @@ public class OrderService {
         Integer itemId = orderDTO.getItemId();
 
         try {
-            Map<String, Object> inventoryResponse = webClient.get()
+            InventoryDTO inventoryResponse = webClient.get()
                 .uri(uriBuilder -> uriBuilder.path("http://localhost:8080/api/v1/item/{itemId}").build(itemId))
                 .retrieve()
-                .bodyToMono(new ParameterizedTypeReference<Map<String, Object>>() {})
+                .bodyToMono(InventoryDTO.class)
                 .block();
 
-            int quantity = 0;
-            if (inventoryResponse != null) {
-                Object q = inventoryResponse.get("quantity");
-                if (q instanceof Number) {
-                    quantity = ((Number) q).intValue();
-                } else if (q != null) {
-                    try {
-                        quantity = Integer.parseInt(q.toString());
-                    } catch (NumberFormatException ex) {
-                        quantity = 0;
-                    }
-                }
-            }
-
-            if (inventoryResponse != null && quantity > 0) {
+            if (inventoryResponse != null && inventoryResponse.getQuantity() > 0) {
                 orderRepo.save(modelMapper.map(orderDTO, Orders.class));
                 return new SuccessOrderResponse(orderDTO);
             } else {
                 // item not available or no inventory info; return null or throw a custom exception as needed
-                return new ErrorOrderResponse("Item is out of stock or unavailable.");
+                return new ErrorOr@@derResponse("Item is out of stock or unavailable.");
             }
 
         } catch (Exception e) {
             e.printStackTrace();
-            return new ErrorOrderResponse("Failed to validate inventory: " + e.getMessage());
+            return null;
         }
     }
     public OrderDTO updateOrder(OrderDTO OrderDTO) {
@@ -97,3 +93,10 @@ public class OrderService {
         return modelMapper.map(order, OrderDTO.class);
     }
 }
+
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: _empty_/ErrorOrderResponse#

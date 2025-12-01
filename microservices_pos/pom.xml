@@ -17,6 +17,12 @@
   <name>Archetype - microservices_pos</name>
   <url>http://maven.apache.org</url>
 
+  <modules>
+    <module>inventory</module>
+    <module>order</module>
+    <module>product</module>
+  </modules>
+
   <build>
     <plugins>
       <plugin>

@@ -6,7 +6,7 @@ import lombok.Getter;
 
 @Getter
 public class SuccessOrderResponse implements OrderResponse {
-    @JsonUnwrapped
+    @JsonUnwrapped //get order object in the root level
     private final OrderDTO order;
 
     public SuccessOrderResponse(OrderDTO order) {

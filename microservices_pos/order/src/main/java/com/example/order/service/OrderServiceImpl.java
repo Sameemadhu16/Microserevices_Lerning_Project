@@ -4,9 +4,11 @@ import com.example.order.common.ErrorOrderResponse;
 import com.example.order.common.OrderResponse;
 import com.example.order.common.SuccessOrderResponse;
 import com.example.order.dto.OrderDTO;
+//import com.example.order.dto.ProductDto;
 import com.example.order.model.Orders;
 import com.example.order.repository.OrderRepo;
 
+import com.example.product.dto.ProductDto;
 import org.modelmapper.ModelMapper;
 import org.modelmapper.TypeToken;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -18,11 +20,15 @@ import org.springframework.core.ParameterizedTypeReference;
 import java.util.List;
 import java.util.Map;
 
+import com.example.inventory.dto.InventoryDTO;
+import org.springframework.web.reactive.function.client.WebClientResponseException;
+
 @Service
 @Transactional
 public class OrderServiceImpl implements OrderService {
 
-    private final WebClient webClient;
+    private final WebClient inventoryWebClient;
+    private final WebClient productWebClient;
 
     @Autowired
     private OrderRepo orderRepo;
@@ -30,8 +36,11 @@ public class OrderServiceImpl implements OrderService {
     @Autowired
     private ModelMapper modelMapper;
 
-    public OrderServiceImpl(WebClient webClient) {
-        this.webClient = webClient;
+    public OrderServiceImpl(WebClient inventoryWebClient, WebClient productWebClient, OrderRepo orderRepo, ModelMapper modelMapper) {
+        this.inventoryWebClient = inventoryWebClient;
+        this.productWebClient = productWebClient;
+        this.orderRepo = orderRepo;
+        this.modelMapper = modelMapper;
     }
 
     @Override
@@ -41,47 +50,56 @@ public class OrderServiceImpl implements OrderService {
     }
 
     @Override
-    public OrderResponse saveOrder(OrderDTO orderDTO) {
-        Integer itemId = orderDTO.getItemId();
+    public OrderResponse saveOrder(OrderDTO OrderDTO) {
+
+        Integer itemId = OrderDTO.getItemId();
 
         try {
-            Map<String, Object> inventoryResponse = webClient.get()
-                .uri("http://localhost:8080/api/v1/item/{itemId}", itemId)
-                .retrieve()
-                .bodyToMono(new ParameterizedTypeReference<Map<String, Object>>() {})
-                .block();
+            InventoryDTO inventoryResponse = inventoryWebClient.get()
+                    .uri(uriBuilder -> uriBuilder.path("/item/{itemId}").build(itemId))
+                    .retrieve()
+                    .bodyToMono(InventoryDTO.class)
+                    .block();
 
-            int quantity = 0;
-            if (inventoryResponse != null) {
-                Object q = inventoryResponse.get("quantity");
-                if (q instanceof Number) {
-                    quantity = ((Number) q).intValue();
-                } else if (q != null) {
-                    try {
-                        quantity = Integer.parseInt(q.toString());
-                    } catch (NumberFormatException ex) {
-                        quantity = 0;
-                    }
+            assert inventoryResponse != null;
+
+            Integer productId = inventoryResponse.getProductId();
+
+            ProductDto productResponse = productWebClient.get()
+                    .uri(uriBuilder -> uriBuilder.path("/product/{productId}").build(productId))
+                    .retrieve()
+                    .bodyToMono(ProductDto.class)
+                    .block();
+
+            assert productResponse != null;
+
+            if (inventoryResponse.getQuantity() > 0) {
+                if (productResponse.getForSale() == 1) {
+                    orderRepo.save(modelMapper.map(OrderDTO, Orders.class));
                 }
+                else {
+                    return new ErrorOrderResponse("This item is not for sale");
+                }
+                return new SuccessOrderResponse(OrderDTO);
+            }
+            else {
+                return new ErrorOrderResponse("Item not available, please try later");
             }
 
-            if (inventoryResponse != null && quantity > 0) {
-                orderRepo.save(modelMapper.map(orderDTO, Orders.class));
-                return new SuccessOrderResponse(orderDTO);
-            } else {
-                return new ErrorOrderResponse("Item is out of stock or unavailable.");
-            }
-
-        } catch (Exception e) {
-            e.printStackTrace();
-            return new ErrorOrderResponse("Failed to validate inventory: " + e.getMessage());
         }
+        catch (WebClientResponseException e) {
+            if (e.getStatusCode().is5xxServerError()) {
+                return new ErrorOrderResponse("Item not found");
+            }
+        }
+
+        return null;
     }
 
     @Override
-    public OrderDTO updateOrder(OrderDTO OrderDTO) {
-        orderRepo.save(modelMapper.map(OrderDTO, Orders.class));
-        return OrderDTO;
+    public OrderDTO updateOrder(OrderDTO orderDTO) {
+        orderRepo.save(modelMapper.map(orderDTO, Orders.class));
+        return orderDTO;
     }
 
     @Override

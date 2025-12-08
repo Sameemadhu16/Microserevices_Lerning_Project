@@ -78,6 +78,12 @@
             <version>6.2.8</version>
         </dependency>
 
+        <!-- https://mvnrepository.com/artifact/org.apache.kafka/kafka -->
+        <dependency>
+            <groupId>org.springframework.kafka</groupId>
+            <artifactId>spring-kafka</artifactId>
+        </dependency>
+
         <dependency>
             <groupId>org.example</groupId>
             <artifactId>inventory</artifactId>
@@ -87,6 +93,12 @@
         <dependency>
             <groupId>org.example</groupId>
             <artifactId>product</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.example</groupId>
+            <artifactId>base</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>

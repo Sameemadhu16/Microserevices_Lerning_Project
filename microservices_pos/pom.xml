@@ -21,6 +21,9 @@
     <module>inventory</module>
     <module>order</module>
     <module>product</module>
+    <module>base</module>
+
+
   </modules>
 
   <build>
